@@ -102,6 +102,9 @@ al-rouby-customs-website/
 ├─ ar/
 ├─ zh/
 └─ scripts/
+   ├─ tools/
+      ├─ render_site.py
+      └─ site_generator.py
    ├─ generate_pages.py
    ├─ gen_services.py
    ├─ gen_ports_blog.py
