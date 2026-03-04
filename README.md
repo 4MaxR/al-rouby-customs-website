@@ -79,29 +79,35 @@ Example scripts:
 ---
 
 ## Project Structure
-al-rouby-customs-website
-│
-├── index.html
-├── about.html
-├── contact.html
-├── 404.html
-│
-├── css/
-├── js/
-├── images/
-│
-├── blog/
-├── ports/
-├── services/
-│
-├── ar/
-├── zh/
-│
-├── scripts/
-│
-├── sitemap.xml
-├── robots.txt
-└── README.md
+
+```text
+al-rouby-customs-website/
+├─ index.html
+├─ about.html
+├─ contact.html
+├─ 404.html
+├─ .htaccess
+├─ robots.txt
+├─ sitemap.xml
+├─ site.webmanifest
+├─ favicon.svg
+├─ favicon.png
+├─ apple-touch-icon.png
+├─ css/
+├─ js/
+├─ images/
+├─ blog/
+├─ ports/
+├─ services/
+├─ ar/
+├─ zh/
+└─ scripts/
+   ├─ generate_pages.py
+   ├─ gen_services.py
+   ├─ gen_ports_blog.py
+   ├─ gen_arabic.py
+   ├─ fix_a11y.py
+   └─ fix_theme_script.py
 
 
 ---
