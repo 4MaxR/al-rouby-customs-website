@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+  <loc>https://al-rouby.com/</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/about.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/about.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/about.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/about.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/about.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/about.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/about.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/about.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/about.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/about.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/about.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/about.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/about.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/about.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/about.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/contact.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/contact.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/contact.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/contact.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/contact.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/contact.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/contact.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/contact.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/contact.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/contact.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/contact.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/contact.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/contact.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/contact.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/contact.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/services/customs-clearance.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/customs-clearance.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/customs-clearance.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/customs-clearance.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/customs-clearance.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/services/customs-clearance.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/customs-clearance.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/customs-clearance.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/customs-clearance.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/customs-clearance.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/services/customs-clearance.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/customs-clearance.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/customs-clearance.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/customs-clearance.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/customs-clearance.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/services/freight-forwarding.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/freight-forwarding.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/freight-forwarding.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/freight-forwarding.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/freight-forwarding.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/services/freight-forwarding.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/freight-forwarding.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/freight-forwarding.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/freight-forwarding.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/freight-forwarding.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/services/freight-forwarding.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/freight-forwarding.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/freight-forwarding.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/freight-forwarding.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/freight-forwarding.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/services/shipping.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/shipping.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/shipping.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/shipping.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/shipping.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/services/shipping.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/shipping.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/shipping.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/shipping.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/shipping.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/services/shipping.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/shipping.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/shipping.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/shipping.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/shipping.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/services/logistics.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/logistics.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/logistics.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/logistics.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/logistics.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/services/logistics.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/logistics.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/logistics.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/logistics.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/logistics.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/services/logistics.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/logistics.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/logistics.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/logistics.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/logistics.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/services/customs-logistics-consulting.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/customs-logistics-consulting.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/consulting.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/customs-logistics-consulting.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/customs-logistics-consulting.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/services/consulting.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/customs-logistics-consulting.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/consulting.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/customs-logistics-consulting.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/customs-logistics-consulting.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/services/customs-logistics-consulting.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/customs-logistics-consulting.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/consulting.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/customs-logistics-consulting.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/customs-logistics-consulting.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/services/aci-nafeza.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/aci-nafeza.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/aci-nafeza.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/aci-nafeza.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/aci-nafeza.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/services/aci-nafeza.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/aci-nafeza.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/aci-nafeza.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/aci-nafeza.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/aci-nafeza.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/services/aci-nafeza.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/services/aci-nafeza.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/services/aci-nafeza.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/services/aci-nafeza.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/services/aci-nafeza.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ports/ain-sokhna.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/ports/ain-sokhna.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/ports/ain-sokhna.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/ports/ain-sokhna.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/ports/ain-sokhna.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/ports/ain-sokhna.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/ports/ain-sokhna.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/ports/ain-sokhna.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/ports/ain-sokhna.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/ports/ain-sokhna.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/ports/ain-sokhna.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/ports/ain-sokhna.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/ports/ain-sokhna.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/ports/ain-sokhna.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/ports/ain-sokhna.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ports/alexandria.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/ports/alexandria.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/ports/alexandria.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/ports/alexandria.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/ports/alexandria.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/ports/alexandria.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/ports/alexandria.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/ports/alexandria.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/ports/alexandria.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/ports/alexandria.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/ports/alexandria.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/ports/alexandria.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/ports/alexandria.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/ports/alexandria.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/ports/alexandria.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ports/sczone.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/ports/sczone.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/ports/sczone.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/ports/sczone.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/ports/sczone.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/ports/sczone.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/ports/sczone.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/ports/sczone.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/ports/sczone.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/ports/sczone.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/ports/sczone.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/ports/sczone.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/ports/sczone.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/ports/sczone.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/ports/sczone.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/blog/customs-clearance-guide-egypt.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/customs-clearance-guide-egypt.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/customs-clearance-guide-egypt.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/customs-clearance-guide-egypt.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/customs-clearance-guide-egypt.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/blog/customs-clearance-guide-egypt.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/customs-clearance-guide-egypt.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/customs-clearance-guide-egypt.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/customs-clearance-guide-egypt.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/customs-clearance-guide-egypt.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/blog/customs-clearance-guide-egypt.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/customs-clearance-guide-egypt.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/customs-clearance-guide-egypt.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/customs-clearance-guide-egypt.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/customs-clearance-guide-egypt.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/blog/aci-system-guide.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/aci-system-guide.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/aci-system-guide.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/aci-system-guide.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/aci-system-guide.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/blog/aci-system-guide.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/aci-system-guide.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/aci-system-guide.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/aci-system-guide.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/aci-system-guide.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/blog/aci-system-guide.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/aci-system-guide.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/aci-system-guide.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/aci-system-guide.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/aci-system-guide.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/blog/sea-freight-types.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/sea-freight-types.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/sea-freight-types.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/sea-freight-types.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/sea-freight-types.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/blog/sea-freight-types.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/sea-freight-types.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/sea-freight-types.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/sea-freight-types.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/sea-freight-types.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/blog/sea-freight-types.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/sea-freight-types.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/sea-freight-types.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/sea-freight-types.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/sea-freight-types.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/blog/egypt-port-fees.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/egypt-port-fees.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/egypt-port-fees.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/egypt-port-fees.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/egypt-port-fees.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/blog/egypt-port-fees.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/egypt-port-fees.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/egypt-port-fees.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/egypt-port-fees.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/egypt-port-fees.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/blog/egypt-port-fees.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/egypt-port-fees.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/egypt-port-fees.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/egypt-port-fees.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/egypt-port-fees.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/blog/hs-code-guide.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/hs-code-guide.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/hs-code-guide.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/hs-code-guide.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/hs-code-guide.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/ar/blog/hs-code-guide.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/hs-code-guide.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/hs-code-guide.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/hs-code-guide.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/hs-code-guide.html" />
+</url>
+
+<url>
+  <loc>https://al-rouby.com/zh/blog/hs-code-guide.html</loc>
+  <lastmod>2026-02-28</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://al-rouby.com/blog/hs-code-guide.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://al-rouby.com/ar/blog/hs-code-guide.html" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://al-rouby.com/zh/blog/hs-code-guide.html" />
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://al-rouby.com/blog/hs-code-guide.html" />
+</url>
+</urlset>

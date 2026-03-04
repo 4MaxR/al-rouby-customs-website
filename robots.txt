@@ -1,0 +1,8 @@
+# Al-Rouby Customs — robots.txt
+# https://al-rouby.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://al-rouby.com/sitemap.xml
