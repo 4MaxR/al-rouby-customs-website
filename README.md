@@ -80,7 +80,7 @@ Example scripts:
 
 ## Project Structure
 
-```text
+```
 al-rouby-customs-website/
 ├─ index.html
 ├─ about.html
@@ -109,7 +109,7 @@ al-rouby-customs-website/
    ├─ fix_a11y.py
    └─ fix_theme_script.py
 
-
+```
 ---
 
 ## Technology Stack
